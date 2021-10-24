@@ -157,11 +157,16 @@
 ---
 
 
-[](./images/pic13.png)
+![](./images/pic13.png)
 
 ---
 
 [![Ikea](https://img.youtube.com/vi/1vBc9mAnTKI/1.jpg)](https://youtu.be/1vBc9mAnTKI)
+
+
+---
+
+[bootstrap example](https://getbootstrap.com/docs/5.1/examples/)
 
 
 

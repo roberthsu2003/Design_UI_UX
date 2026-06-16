@@ -47,7 +47,7 @@
 ### [第三章 🔌 方法三：使用 MCP 連接器審查結構](./03_使用MCP連接器審查結構.md)
 * **適用場景**：深度技術指標（DOM 樹、無障礙規範、SEO 代碼、資訊安全）評估。
 * **評估載體**：使用 `claude.ai` 網頁版 Connectors (Control Chrome) 連線本地瀏覽器分頁。
-* **核心 Prompts**：收錄 ♿ 無障礙網頁評估 (Accessibility / A11y)、🔍 搜尋引擎優化 (SEO)、🔒 網站資訊安全 (Security) Prompt 模板。
+* **核心 Prompts**：收錄 ♿ 無障礙網頁評估 (Accessibility / A11y)、🔍 搜尋引擎優化 (SEO)、🔒 網站資訊安全 (Security)、🛒 互動式交易表單與轉換率評估 Prompt 模板。
 * **原理介紹**：介紹什麼是 DevTools MCP，以及只給網址時 AI 爬蟲的侷限性。
 
 ---

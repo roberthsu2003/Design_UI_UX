@@ -334,37 +334,7 @@ AI 語言學習 App「LingoBot」
 [【 UI/UX 】關於綜合所得稅](https://medium.com/%E5%89%8D%E7%AB%AF%E7%AD%86%E8%A8%98/%E9%97%9C%E6%96%BC%E7%B6%9C%E5%90%88%E6%89%80%E5%BE%97%E7%A8%85ui-ux-57ced4806e47)
 
 ---
-## 評估網站UI/UX
 
-輔助AI
-- chatGPT
-- Atlas
-- comet
-- gemini
-- claude
-- Grok
-
-Prompt:
-```
-我可以給你一個網站,你可以評估這網站的ui/ux嗎?
-```
-
-```
-[網址]
-- 給我純屬你分析的 UI/UX 評估，不引述網路資訊。
-```
-
-[中華民國國防部 官方網站](https://www.mnd.gov.tw/default.aspx)
-
-[財政部電子申報繳稅服務網 (報稅系統)](https://tax.nat.gov.tw)
-
-[總統府網站](https://www.president.gov.tw/)
-
-## AI透過UI/UX評估建立原型
-
-
-
----
 
 
 

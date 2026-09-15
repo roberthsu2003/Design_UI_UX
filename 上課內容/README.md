@@ -9,5 +9,8 @@ https://meet.google.com/rip-trni-svn
 ### 2026_09_15_上午
 https://www.youtube.com/watch?v=3IbZ3HTELZc
 
+### 2026_09_16_下午
+https://www.youtube.com/watch?v=d8U214_JYwg
+
 ---
 

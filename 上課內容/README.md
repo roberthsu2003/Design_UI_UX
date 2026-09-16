@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=d8U214_JYwg
 ---
 
 ### 2026_09_16_上午
-https://meet.google.com/rip-trni-svn
+https://www.youtube.com/watch?v=2C3LryCZCM0
 
 ---
 
